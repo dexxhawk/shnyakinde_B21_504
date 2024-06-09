@@ -1,0 +1,12 @@
+voice_a:
+	Maximal Frequncy: 22050.0
+	Minimnal Frequency: 0.0
+	The most timbral-colored basic tone: 403
+voice_gav:
+	Maximal Frequncy: 16020.703125
+	Minimnal Frequency: 0.0
+	The most timbral-colored basic tone: 360
+voice_i:
+	Maximal Frequncy: 17614.16015625
+	Minimnal Frequency: 0.0
+	The most timbral-colored basic tone: 334
